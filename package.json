@@ -8,6 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "backbone": "^1.4.0",
+    "dagre": "^0.8.5",
+    "jointjs": "^3.1.1",
+    "jquery": "^3.5.0",
+    "lodash": "^4.17.15",
     "next": "9.3.6",
     "react": "16.13.1",
     "react-dom": "16.13.1"
